@@ -16,5 +16,5 @@ I'm Sneha Guravannavar, a dedicated Data Scientist with a deep passion for trans
   
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun Fact: I love exploring the intersection of technology and creativity—whether it’s analyzing customer sentiments or optimizing algorithms, I’m always up for a challenge that lets me blend data science with innovative problem-solving!
+- ⚡ Fun Fact: I like to think of data as the perfect brew—just like coffee, it takes the right blend of technique, precision, and creativity to extract the best insights!
 
